@@ -1,0 +1,27 @@
+{
+    "2_hands": {
+        "playlist": "Test_song",
+        "info_path": "Assets/spotify/Test_song/song_info/2_hands_info.txt",
+        "lyrics_path": "Assets/spotify/Test_song/lyrics/2_hands_lyrics.srt"
+    },
+    "295": {
+        "playlist": "Test_song",
+        "info_path": "Assets/spotify/Test_song/song_info/295_info.txt",
+        "lyrics_path": "Assets/spotify/Test_song/lyrics/295_lyrics.srt"
+    },
+    "9_45": {
+        "playlist": "Test_song",
+        "info_path": "Assets/spotify/Test_song/song_info/9_45_info.txt",
+        "lyrics_path": "Assets/spotify/Test_song/lyrics/9_45_lyrics.srt"
+    },
+    "16": {
+        "playlist": "Test_song",
+        "info_path": "Assets/spotify/Test_song/song_info/16_info.txt",
+        "lyrics_path": "Assets/spotify/Test_song/lyrics/16_lyrics.srt"
+    },
+    "309": {
+        "playlist": "Test_song",
+        "info_path": "Assets/spotify/Test_song/song_info/309_info.txt",
+        "lyrics_path": "Assets/spotify/Test_song/lyrics/309_lyrics.srt"
+    }
+}

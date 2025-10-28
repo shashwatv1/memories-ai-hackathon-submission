@@ -1,0 +1,304 @@
+{
+  "files_processed": [
+    {
+      "file_path": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_131120.json",
+      "timestamp": "20250612_131120",
+      "total_songs": 61,
+      "new_songs": 61,
+      "duplicates_skipped": 0
+    },
+    {
+      "file_path": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "timestamp": "20250612_122027",
+      "total_songs": 100,
+      "new_songs": 100,
+      "duplicates_skipped": 0
+    },
+    {
+      "file_path": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_105410.json",
+      "timestamp": "20250612_105410",
+      "total_songs": 14,
+      "new_songs": 14,
+      "duplicates_skipped": 0
+    },
+    {
+      "file_path": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "timestamp": "20250606_090036",
+      "total_songs": 95,
+      "new_songs": 73,
+      "duplicates_skipped": 22
+    },
+    {
+      "file_path": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_083248.json",
+      "timestamp": "20250606_083248",
+      "total_songs": 99,
+      "new_songs": 99,
+      "duplicates_skipped": 0
+    },
+    {
+      "file_path": "Assets/jsons/song_embedding_data_20250514_134636.json",
+      "timestamp": "20250514_134636",
+      "total_songs": 85,
+      "new_songs": 85,
+      "duplicates_skipped": 0
+    },
+    {
+      "file_path": "Assets/jsons/song_embedding_data_20250514_134558.json",
+      "timestamp": "20250514_134558",
+      "total_songs": 83,
+      "new_songs": 83,
+      "duplicates_skipped": 0
+    },
+    {
+      "file_path": "Assets/jsons/song_embedding_data_20250514_134546.json",
+      "timestamp": "20250514_134546",
+      "total_songs": 80,
+      "new_songs": 74,
+      "duplicates_skipped": 6
+    },
+    {
+      "file_path": "Assets/jsons/song_embedding_data_20250514_134516.json",
+      "timestamp": "20250514_134516",
+      "total_songs": 72,
+      "new_songs": 72,
+      "duplicates_skipped": 0
+    },
+    {
+      "file_path": "Assets/jsons/song_embedding_data_20250514_110254.json",
+      "timestamp": "20250514_110254",
+      "total_songs": 45,
+      "new_songs": 45,
+      "duplicates_skipped": 0
+    },
+    {
+      "file_path": "Assets/jsons/song_embedding_data_20250514_091237.json",
+      "timestamp": "20250514_091237",
+      "total_songs": 97,
+      "new_songs": 97,
+      "duplicates_skipped": 0
+    },
+    {
+      "file_path": "Assets/jsons/song_embedding_data_20250514_091204.json",
+      "timestamp": "20250514_091204",
+      "total_songs": 97,
+      "new_songs": 97,
+      "duplicates_skipped": 0
+    },
+    {
+      "file_path": "Assets/jsons/song_embedding_data_20250514_090536.json",
+      "timestamp": "20250514_090536",
+      "total_songs": 97,
+      "new_songs": 97,
+      "duplicates_skipped": 0
+    },
+    {
+      "file_path": "Assets/jsons/song_embedding_data_20250514_090110.json",
+      "timestamp": "20250514_090110",
+      "total_songs": 89,
+      "new_songs": 89,
+      "duplicates_skipped": 0
+    },
+    {
+      "file_path": "Assets/jsons/song_embedding_data_20250514_073821.json",
+      "timestamp": "20250514_073821",
+      "total_songs": 35,
+      "new_songs": 34,
+      "duplicates_skipped": 1
+    }
+  ],
+  "duplicates_found": [
+    {
+      "song_name": "lover_online",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "e817e89c"
+    },
+    {
+      "song_name": "made_for_the_game",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "ba977e1e"
+    },
+    {
+      "song_name": "cant_heal_you",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "55eddcd4"
+    },
+    {
+      "song_name": "burning_wish",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "0a201665"
+    },
+    {
+      "song_name": "dancefloor_dreamer",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "3875c587"
+    },
+    {
+      "song_name": "around_us",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "d91531a7"
+    },
+    {
+      "song_name": "gang",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "63cf12e9"
+    },
+    {
+      "song_name": "another_way",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "de6dc164"
+    },
+    {
+      "song_name": "dança_do_verão",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "90d6f227"
+    },
+    {
+      "song_name": "rush",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "de96cb15"
+    },
+    {
+      "song_name": "intranet_crush",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "26898499"
+    },
+    {
+      "song_name": "fellshortofhell",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "2722c39a"
+    },
+    {
+      "song_name": "ghost_in_the_wall",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "ee07566d"
+    },
+    {
+      "song_name": "on_the_break_of_dawn",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "33178f66"
+    },
+    {
+      "song_name": "royalty_funk",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "a67fbc41"
+    },
+    {
+      "song_name": "goodbye_my_love",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "d3fbaabc"
+    },
+    {
+      "song_name": "reason",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "d7b05317"
+    },
+    {
+      "song_name": "let_go",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "1c76bb16"
+    },
+    {
+      "song_name": "runaway",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "d74413af"
+    },
+    {
+      "song_name": "loner",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "4ffe3805"
+    },
+    {
+      "song_name": "back_again",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "dffc4532"
+    },
+    {
+      "song_name": "montagem_toma",
+      "duplicate_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250606_090036.json",
+      "original_in": "Assets/jsons/non-copyright jsons/song_embedding_data_20250612_122027.json",
+      "hash": "f212f8ab"
+    },
+    {
+      "song_name": "sooraj_ki_baahon_mein",
+      "duplicate_in": "Assets/jsons/song_embedding_data_20250514_134546.json",
+      "original_in": "Assets/jsons/song_embedding_data_20250514_134636.json",
+      "hash": "4c4745b0"
+    },
+    {
+      "song_name": "challa",
+      "duplicate_in": "Assets/jsons/song_embedding_data_20250514_134546.json",
+      "original_in": "Assets/jsons/song_embedding_data_20250514_134636.json",
+      "hash": "b37123de"
+    },
+    {
+      "song_name": "tum_hi_ho_bandhu",
+      "duplicate_in": "Assets/jsons/song_embedding_data_20250514_134546.json",
+      "original_in": "Assets/jsons/song_embedding_data_20250514_134636.json",
+      "hash": "f89f77de"
+    },
+    {
+      "song_name": "zindagi_kuch_toh_bata",
+      "duplicate_in": "Assets/jsons/song_embedding_data_20250514_134546.json",
+      "original_in": "Assets/jsons/song_embedding_data_20250514_134636.json",
+      "hash": "22752d44"
+    },
+    {
+      "song_name": "aao_milo_chalo",
+      "duplicate_in": "Assets/jsons/song_embedding_data_20250514_134546.json",
+      "original_in": "Assets/jsons/song_embedding_data_20250514_134636.json",
+      "hash": "2cd3a801"
+    },
+    {
+      "song_name": "matargashti",
+      "duplicate_in": "Assets/jsons/song_embedding_data_20250514_134546.json",
+      "original_in": "Assets/jsons/song_embedding_data_20250514_134636.json",
+      "hash": "5eaaaebb"
+    },
+    {
+      "song_name": "taki_taki",
+      "duplicate_in": "Assets/jsons/song_embedding_data_20250514_073821.json",
+      "original_in": "Assets/jsons/song_embedding_data_20250514_090536.json",
+      "hash": "a330cb32"
+    }
+  ],
+  "songs_by_playlist": {
+    "non_copyright_music_youtube": 61,
+    "copyright_free_music_by_NCS": 100,
+    "non_copyright_hindi": 14,
+    "new_copyright_free_music_2025": 73,
+    "copyright_free_music_2022": 99,
+    "travel_hindi": 85,
+    "top_uk_english_hits": 83,
+    "travel_songs_bollywood": 74,
+    "vacation_summer_vibes_english": 72,
+    "gujju_wedding_songs": 45,
+    "tamil_wedding_songs": 97,
+    "punjabi_wedding_songs": 97,
+    "popular_english_songs": 97,
+    "corporate_playlist": 89,
+    "spanish_wedding_songs": 34
+  },
+  "total_original_songs": 1149,
+  "total_unique_songs": 1076
+}

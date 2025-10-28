@@ -1,0 +1,472 @@
+{
+    "ole_ole_20": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/ole_ole_20_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/ole_ole_20_lyrics.srt"
+    },
+    "apna_har_din": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/apna_har_din_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/apna_har_din_lyrics.srt"
+    },
+    "excuses": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/excuses_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/excuses_lyrics.srt"
+    },
+    "ek_zindagi": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/ek_zindagi_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/ek_zindagi_lyrics.srt"
+    },
+    "laapata": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/laapata_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/laapata_lyrics.srt"
+    },
+    "club_mix": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/club_mix_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/club_mix_lyrics.srt"
+    },
+    "bijlee_bijlee": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/bijlee_bijlee_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/bijlee_bijlee_lyrics.srt"
+    },
+    "pappu_cant_dance": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/pappu_cant_dance_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/pappu_cant_dance_lyrics.srt"
+    },
+    "sham": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/sham_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/sham_lyrics.srt"
+    },
+    "brown_munde": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/brown_munde_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/brown_munde_lyrics.srt"
+    },
+    "aahun_aahun": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/aahun_aahun_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/aahun_aahun_lyrics.srt"
+    },
+    "gallan_goodiyaan": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/gallan_goodiyaan_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/gallan_goodiyaan_lyrics.srt"
+    },
+    "calm_down": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/calm_down_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/calm_down_lyrics.srt"
+    },
+    "tum_hi_ho_bandhu": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/tum_hi_ho_bandhu_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/tum_hi_ho_bandhu_lyrics.srt"
+    },
+    "khalibali": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/khalibali_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/khalibali_lyrics.srt"
+    },
+    "maahi_ve": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/maahi_ve_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/maahi_ve_lyrics.srt"
+    },
+    "something_something": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/something_something_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/something_something_lyrics.srt"
+    },
+    "hawa_hawai_20": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/hawa_hawai_20_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/hawa_hawai_20_lyrics.srt"
+    },
+    "happy_happy": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/happy_happy_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/happy_happy_lyrics.srt"
+    },
+    "ude_dil_befikre": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/ude_dil_befikre_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/ude_dil_befikre_lyrics.srt"
+    },
+    "hairat": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/hairat_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/hairat_lyrics.srt"
+    },
+    "party_abhi_baaki_hai": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/party_abhi_baaki_hai_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/party_abhi_baaki_hai_lyrics.srt"
+    },
+    "daaru_desi": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/daaru_desi_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/daaru_desi_lyrics.srt"
+    },
+    "main_deewana": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/main_deewana_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/main_deewana_lyrics.srt"
+    },
+    "doobey": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/doobey_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/doobey_lyrics.srt"
+    },
+    "allah_hafiz": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/allah_hafiz_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/allah_hafiz_lyrics.srt"
+    },
+    "i_feel_good": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/i_feel_good_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/i_feel_good_lyrics.srt"
+    },
+    "male_version": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/male_version_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/male_version_lyrics.srt"
+    },
+    "roobaroo": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/roobaroo_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/roobaroo_lyrics.srt"
+    },
+    "a_b_c_d_e_f_g_h_i_love_you": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/a_b_c_d_e_f_g_h_i_love_you_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/a_b_c_d_e_f_g_h_i_love_you_lyrics.srt"
+    },
+    "lift_karadey": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/lift_karadey_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/lift_karadey_lyrics.srt"
+    },
+    "from_selfiee": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/from_selfiee_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/from_selfiee_lyrics.srt"
+    },
+    "galti_se_mistake": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/galti_se_mistake_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/galti_se_mistake_lyrics.srt"
+    },
+    "buddhu_sa_mann": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/buddhu_sa_mann_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/buddhu_sa_mann_lyrics.srt"
+    },
+    "masti_ki_paathshala": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/masti_ki_paathshala_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/masti_ki_paathshala_lyrics.srt"
+    },
+    "dil_chahta_hai": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/dil_chahta_hai_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/dil_chahta_hai_lyrics.srt"
+    },
+    "sooraj_ki_baahon_mein": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/sooraj_ki_baahon_mein_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/sooraj_ki_baahon_mein_lyrics.srt"
+    },
+    "jugnu": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/jugnu_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/jugnu_lyrics.srt"
+    },
+    "jhoome_jo_pathaan": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/jhoome_jo_pathaan_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/jhoome_jo_pathaan_lyrics.srt"
+    },
+    "zindagi_ki_yehi_reet_hai": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/zindagi_ki_yehi_reet_hai_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/zindagi_ki_yehi_reet_hai_lyrics.srt"
+    },
+    "sooraj_dooba_hain": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/sooraj_dooba_hain_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/sooraj_dooba_hain_lyrics.srt"
+    },
+    "aao_milo_chalo": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/aao_milo_chalo_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/aao_milo_chalo_lyrics.srt"
+    },
+    "nazrein_milaana_nazrein_churaana": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/nazrein_milaana_nazrein_churaana_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/nazrein_milaana_nazrein_churaana_lyrics.srt"
+    },
+    "koi_kahe_kehta_rahe": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/koi_kahe_kehta_rahe_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/koi_kahe_kehta_rahe_lyrics.srt"
+    },
+    "na_ja": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/na_ja_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/na_ja_lyrics.srt"
+    },
+    "maan_meri_jaan": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/maan_meri_jaan_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/maan_meri_jaan_lyrics.srt"
+    },
+    "zindagi_kuch_toh_bata": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/zindagi_kuch_toh_bata_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/zindagi_kuch_toh_bata_lyrics.srt"
+    },
+    "chor_bazaari": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/chor_bazaari_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/chor_bazaari_lyrics.srt"
+    },
+    "pawri_hori_hai": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/pawri_hori_hai_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/pawri_hori_hai_lyrics.srt"
+    },
+    "bom_diggy_diggy": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/bom_diggy_diggy_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/bom_diggy_diggy_lyrics.srt"
+    },
+    "patola": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/patola_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/patola_lyrics.srt"
+    },
+    "patakha_guddi": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/patakha_guddi_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/patakha_guddi_lyrics.srt"
+    },
+    "mitwa": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/mitwa_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/mitwa_lyrics.srt"
+    },
+    "barbaadiyan": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/barbaadiyan_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/barbaadiyan_lyrics.srt"
+    },
+    "meethi_boliyaan": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/meethi_boliyaan_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/meethi_boliyaan_lyrics.srt"
+    },
+    "best_times": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/best_times_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/best_times_lyrics.srt"
+    },
+    "party_on_my_mind": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/party_on_my_mind_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/party_on_my_mind_lyrics.srt"
+    },
+    "baaki_baatein_peene_baad": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/baaki_baatein_peene_baad_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/baaki_baatein_peene_baad_lyrics.srt"
+    },
+    "challa": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/challa_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/challa_lyrics.srt"
+    },
+    "matargashti": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/matargashti_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/matargashti_lyrics.srt"
+    },
+    "yeh_jawaani_hai_deewani_mashup": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/yeh_jawaani_hai_deewani_mashup_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/yeh_jawaani_hai_deewani_mashup_lyrics.srt"
+    },
+    "ilahi": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/ilahi_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/ilahi_lyrics.srt"
+    },
+    "mercy": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/mercy_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/mercy_lyrics.srt"
+    },
+    "tanha_dil": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/tanha_dil_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/tanha_dil_lyrics.srt"
+    },
+    "oh_ho_ho_ho": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/oh_ho_ho_ho_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/oh_ho_ho_ho_lyrics.srt"
+    },
+    "3_peg": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/3_peg_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/3_peg_lyrics.srt"
+    },
+    "kya_baat_ay": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/kya_baat_ay_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/kya_baat_ay_lyrics.srt"
+    },
+    "hai_junoon": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/hai_junoon_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/hai_junoon_lyrics.srt"
+    },
+    "sanak": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/sanak_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/sanak_lyrics.srt"
+    },
+    "cheap_thrills": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/cheap_thrills_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/cheap_thrills_lyrics.srt"
+    },
+    "rafta_rafta_medley": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/rafta_rafta_medley_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/rafta_rafta_medley_lyrics.srt"
+    },
+    "kudi_gujarat_di": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/kudi_gujarat_di_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/kudi_gujarat_di_lyrics.srt"
+    },
+    "o_o_jaane_jaana": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/o_o_jaane_jaana_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/o_o_jaane_jaana_lyrics.srt"
+    },
+    "naacho_naacho": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/naacho_naacho_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/naacho_naacho_lyrics.srt"
+    },
+    "deva_deva": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/deva_deva_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/deva_deva_lyrics.srt"
+    },
+    "in_dino": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/in_dino_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/in_dino_lyrics.srt"
+    },
+    "desi_kalakaar": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/desi_kalakaar_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/desi_kalakaar_lyrics.srt"
+    },
+    "jaane_kyun": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/jaane_kyun_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/jaane_kyun_lyrics.srt"
+    },
+    "yeh_ek_zindagi": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/yeh_ek_zindagi_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/yeh_ek_zindagi_lyrics.srt"
+    },
+    "pyaar_hota_kayi_baar_hai": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/pyaar_hota_kayi_baar_hai_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/pyaar_hota_kayi_baar_hai_lyrics.srt"
+    },
+    "woh_din": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/woh_din_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/woh_din_lyrics.srt"
+    },
+    "character_dheela": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/character_dheela_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/character_dheela_lyrics.srt"
+    },
+    "safarnama": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/safarnama_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/safarnama_lyrics.srt"
+    },
+    "pasoori": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/pasoori_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/pasoori_lyrics.srt"
+    },
+    "pipni": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/pipni_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/pipni_lyrics.srt"
+    },
+    "love_you_zindagi": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/love_you_zindagi_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/love_you_zindagi_lyrics.srt"
+    },
+    "dhunki": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/dhunki_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/dhunki_lyrics.srt"
+    },
+    "munda_sona_hoon_main": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/munda_sona_hoon_main_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/munda_sona_hoon_main_lyrics.srt"
+    },
+    "from_satte_pe_satta": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/from_satte_pe_satta_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/from_satte_pe_satta_lyrics.srt"
+    },
+    "gulabi_aankhen": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/gulabi_aankhen_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/gulabi_aankhen_lyrics.srt"
+    },
+    "the_disco_song": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/the_disco_song_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/the_disco_song_lyrics.srt"
+    },
+    "tere_pyaar_mein": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/tere_pyaar_mein_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/tere_pyaar_mein_lyrics.srt"
+    },
+    "daru_badnaam": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/daru_badnaam_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/daru_badnaam_lyrics.srt"
+    },
+    "ale": {
+        "playlist": "travel_hindi",
+        "info_path": "Assets/spotify/travel_hindi/song_info/ale_info.txt",
+        "lyrics_path": "Assets/spotify/travel_hindi/lyrics/ale_lyrics.srt"
+    }
+}
